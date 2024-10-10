@@ -8,7 +8,7 @@
 
         <div class="flex flex-col gap-8 items-center md:flex-row md:justify-center md:gap-14">
 
-            <CardDemonstration link="https://demo.food-it.ru">
+            <CardDemonstration link="https://demopizza.ru">
                 <template v-slot:icon>
                     <IconGooglePlay class="text-green-500" />
                 </template>
@@ -20,7 +20,7 @@
                 </template>
             </CardDemonstration>
 
-            <CardDemonstration link="https://demo.food-it.ru">
+            <CardDemonstration link="https://demopizza.ru">
                 <template v-slot:icon>
                     <IconInternet class="text-blue-500" />
                 </template>
