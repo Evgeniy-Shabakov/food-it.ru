@@ -7,6 +7,7 @@ export default {
   plugins: [],
 }
 
+//чтобы ховер не работал на мобилках
 module.exports = {
   future: {
     hoverOnlyWhenSupported: true,
