@@ -37,7 +37,7 @@
 
                 <template v-slot:li_1>10р за заказ</template>
                 <template v-slot:li_2>Вы платите только за заказы, оформленные через сайт или мобильное приложение</template>
-                <template v-slot:li_3>нет фиксированный платежей и процента от суммы чека</template>
+                <template v-slot:li_3>нет фиксированных платежей и процента от суммы чека</template>
                 <template v-slot:li_4>нет заказов - нет платежей</template>
 
             </CardIconAndList>
