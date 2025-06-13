@@ -16,7 +16,7 @@
                     Мобильное приложение
                 </template>
                 <template v-slot:p>
-                    Приложение опубликованное в Google Play Market
+                    Приложение для Android
                 </template>
             </CardDemonstration>
 
