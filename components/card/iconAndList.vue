@@ -47,6 +47,9 @@ defineProps({
                 <li v-if="9 <= qtyItemsInList">
                     <slot name="li_9"></slot>
                 </li>
+                <li v-if="10 <= qtyItemsInList">
+                    <slot name="li_10"></slot>
+                </li>
             </ul>
 
         </div>

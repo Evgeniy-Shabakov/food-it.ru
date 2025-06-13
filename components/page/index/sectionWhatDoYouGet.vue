@@ -18,7 +18,7 @@
                     Мобильное приложение для Android
                 </template>
                 <template v-slot:div>
-                    <p>Мобильное приложение с Вашим собственным брендом опубликованное в Google Play Market</p>
+                    <p>Мобильное приложение с Вашим собственным брендом для Android</p>
 
                 </template>
             </CardDescription>
@@ -28,7 +28,7 @@
                     Мобильное приложение для iOS
                 </template>
                 <template v-slot:div>
-                    <p>Данная опция пока недоступна и находится в разработке</p>
+                    <p>Мобильное приложение с Вашим собственным брендом для iOS</p>
                 </template>
             </CardDescription>
 
@@ -63,14 +63,14 @@
                 </template>
             </CardDescription>
 
-            <CardDescription :h3Visible=true>
+            <!-- <CardDescription :h3Visible=true>
                 <template v-slot:h3>
                     Мобильное приложение для курьера
                 </template>
                 <template v-slot:div>
                     <p>Данная опция пока недоступна и планируется в разработку</p>
                 </template>
-            </CardDescription>
+            </CardDescription> -->
 
         </div>
 
